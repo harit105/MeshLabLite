@@ -1,6 +1,6 @@
 ## MeshLabLite
 
-MeshLabLite is a project written primarily in C (80.6%) and C++ (19.4%). It is designed to provide lightweight meshing capabilities.
+MeshLabLite is a project written primarily in C and C++ . It is designed to provide lightweight meshing capabilities.
 
 ### Summary
 MeshLabLite aims to offer efficient and lightweight meshing solutions. The project is structured to support various meshing operations and provide a foundational framework for further development in meshing technologies.
